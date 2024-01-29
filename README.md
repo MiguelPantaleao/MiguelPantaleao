@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MiguelPantaleao
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... All programming languages
